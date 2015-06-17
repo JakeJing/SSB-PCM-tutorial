@@ -1,7 +1,8 @@
 ## # Course Preparation - Phylogenetics and comparative methods in R
 ## This document will guide you through the steps of preparing your R environment so that
 ## you can have a minimum number of headaches  working your way through the course. Please
-## try to follow all steps before arriving for the course.
+## try to follow all steps before arriving for the course. New to R? A very useful site to 
+## familiarize yourself with the "basics" (i.e. the advanced basics...) can be found [here](http://adv-r.had.co.nz/)
 
 ## ## Step 1. Install and update R to the latest version
 ## New versions of R are released periodically and many packages require a recent version. 
