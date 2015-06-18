@@ -48,3 +48,8 @@ install_github("hadley/dplyr")
 install.packages("ctv")
 install.views("Phylogenetics")
 
+## ## Step 5 (Optional). Installing git
+## Git is a version control software that is used by websites such as github and bitbucket. Learn about
+## how to install git [here](https://help.github.com/articles/set-up-git/). 
+## Rstudio has a number of built in tools to manage projects using git, which makes it especially nice to use. 
+## Once you've installed git, get a [free github account](https://github.com/join). 
